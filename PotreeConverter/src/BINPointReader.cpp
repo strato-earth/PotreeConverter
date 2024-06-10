@@ -7,6 +7,7 @@
 
 #include "BINPointReader.hpp"
 #include "stuff.h"
+#include <cstring>
 
 namespace fs = std::filesystem;
 
